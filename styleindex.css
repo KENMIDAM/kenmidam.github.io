@@ -8,10 +8,10 @@ li {
 header{
   font-size: 20px;
   height:80px;
-  background-color: #008080;
+  background-color: #26d0c9;
 }
 .main{
-  height:600px;
+  padding:100px 100px;
 }
 footer{
   background-color: #008080;
