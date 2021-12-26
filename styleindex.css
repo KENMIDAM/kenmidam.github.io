@@ -1,8 +1,10 @@
 .header{
   font-size: 20px;
+  height:80px;
+  background-color: #008080;
 }
 .main{
-  padding: 100px 100px;
+  height:600px;
 }
 .footer{
   background-color: #008080;
